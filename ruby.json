@@ -1,0 +1,13 @@
+[{
+	"key": "{",
+	"text": "{"
+}, {
+	"key": "}",
+	"text": "}"
+}, {
+	"key": "def",
+	"text": "def \nend\b\b\b\b"
+}, {
+	"key": "<%=",
+	"text": "<%=  %>\b\b\b"
+}]
