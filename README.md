@@ -6,22 +6,22 @@ JSON Keyboard configuration files for use in the mobile apps. These are added as
 
 ## Format
 
-    ```json
-    [
-        {
-        	"key": "@",
-        	"text": "@"
-        }, 
-        {
-        	"key": "\"",
-        	"text": "\""
-        },
-        {
-        	"key": "def",
-        	"text": "def \nend\b\b\b\b"
-        },
-    ]
-    ``` 
+```json
+[
+    {
+    	"key": "@",
+    	"text": "@"
+    }, 
+    {
+    	"key": "\"",
+    	"text": "\""
+    },
+    {
+    	"key": "def",
+    	"text": "def \nend\b\b\b\b"
+    },
+]
+``` 
     
 ## Special Characters
 
