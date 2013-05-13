@@ -21,7 +21,7 @@
 	"text": "'"
 }, {
 	"key": "func",
-	"text": "function()"
+	"text": "function() {  }\b\b"
 }, {
 	"key": "{",
 	"text": "{"
