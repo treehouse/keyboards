@@ -1,4 +1,26 @@
-[{
-	"key": "<%=",
-	"text": "<%=  %>\b\b\b"
-}]
+[
+  {
+    "key": "<%=",
+    "text": "<%=  %>\b\b\b"
+  },
+  {
+    "key": "each",
+    "text": "each do\n\nend\b\b\b\b\b"
+  },
+  {
+    "key": "@",
+    "text": "@"
+  },
+  {
+    "key": "\"",
+    "text": "\""
+  },
+  {
+    "key": "/",
+    "text": "/"
+  },
+  {
+    "key": "div",
+    "text": "<div></div>\b\b\b\b\b\b"
+  }
+]
