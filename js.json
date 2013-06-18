@@ -1,37 +1,31 @@
 [{
-	"key": "$(\"\")",
-	"text": "$(\"\")\b\b"
+  "key": "$(\"\")",
+  "text": "$(\"\")\b\b"
 }, {
-	"key": "$()",
-	"text": "$()\b"
+  "key": "$()",
+  "text": "$()\b"
 }, {
-	"key": ".",
-	"text": "."
+  "key": ".",
+  "text": "."
 }, {
-	"key": ",",
-	"text": ","
+  "key": ",",
+  "text": ","
 }, {
-	"key": "#",
-	"text": "#"
+  "key": "#",
+  "text": "#"
 }, {
-	"key": "\"",
-	"text": "\""
+  "key": "\"",
+  "text": "\"\"\b"
 }, {
-	"key": "'",
-	"text": "'"
+  "key": "'",
+  "text": "'"
 }, {
-	"key": "func",
-	"text": "function() {  }\b\b"
+  "key": "func",
+  "text": "function() {  }\b\b"
 }, {
-	"key": "{",
-	"text": "{"
+  "key": "{}",
+  "text": "{}\b"
 }, {
-	"key": "}",
-	"text": "}"
-}, {
-	"key": "(",
-	"text": "("
-}, {
-	"key": ")",
-	"text": ")"
+  "key": "()",
+  "text": "()\b"
 }]
