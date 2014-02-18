@@ -32,3 +32,7 @@ JSON Keyboard configuration files for use in the mobile apps. These are added as
 ## Validation
 
 I have included a `Rakefile` in the repo with the default task of validating the JSON files. Please run `rake` before committing to ensure that all the files are valid. If the file is invalid then no keys will be shown for the code challenge.
+
+## License
+
+Keyboards is available under the MIT license. See the LICENSE file for more info.
