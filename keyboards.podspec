@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "keyboards"
-  s.version      = "1.0"
+  s.version      = "1.0.1"
   s.summary      = "Keyboard files for Treehouse mobile Apps."
 
   s.description  = <<-DESC
